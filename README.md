@@ -26,7 +26,7 @@
 
 
 <p align='center'><a href="https://github.com/riyatyagi99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravishankarsingh1996&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyatyagi99&theme=dark&hide_langs_below=1" />
 </a></p>
 
 
