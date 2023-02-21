@@ -10,7 +10,7 @@
 <a href="">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://medium.com/@tyagi.riyaa2022">
+<a href="https://www.linkedin.com/in/riya-tyagi-5b42a313a">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://medium.com/@tyagi.riyaa2022">
@@ -28,6 +28,7 @@
 <p align='center'><a href="https://github.com/riyatyagi99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravishankarsingh1996&theme=dark&hide_langs_below=1" />
 </a></p>
+
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=riyatyagi99&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
