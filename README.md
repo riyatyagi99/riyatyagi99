@@ -7,7 +7,7 @@
 
 
 <p align='center'>
-<a href="">
+<a href="https://twitter.com/riyatyagi04">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/riya-tyagi-5b42a313a">
