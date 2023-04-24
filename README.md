@@ -14,7 +14,10 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://medium.com/@tyagi.riyaa2022">
-  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/resume-%2312100E.svg?&style=for-the-badge&logo=resume&logoColor=white" />
+</a>&nbsp;&nbsp;
+  <a href="https://portfolio-d0148.web.app">
+  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=resume&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:tyagi.riyaa2022@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
