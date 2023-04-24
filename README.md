@@ -10,13 +10,13 @@
 <a href="https://twitter.com/riyatyagi04">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
+  <a href="https://portfolio-d0148.web.app">
+  <img src="https://img.shields.io/badge/resume-%2312100E.svg?&style=for-the-badge&logo=resume&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/riya-tyagi-5b42a313a">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://medium.com/@tyagi.riyaa2022">
-  <img src="https://img.shields.io/badge/resume-%2312100E.svg?&style=for-the-badge&logo=resume&logoColor=white" />
-</a>&nbsp;&nbsp;
-  <a href="https://portfolio-d0148.web.app">
+  <a href="https://medium.com/@tyagi.riyaa2022">
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=resume&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:tyagi.riyaa2022@gmail.com">
